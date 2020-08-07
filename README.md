@@ -2,7 +2,7 @@
 An open source model for a tool that can dry up to 2 fursuits simultaneously.
 
 ## Special thanks
-A very special thanks to the persons who made the super fursuit dryer at  [CesFur 2019](https://www.cesfur.org/en/). The one I built was largely inspired from them.
+A very special thanks to the persons who made the super fursuit dryer at  [CesFur 2019](https://www.cesfur.org/en/). The one I built was mainly inspired from them.
 
 Another special thanks to [Yashn37](https://twitter.com/Yashn37) who made all the 3D models using Blender.
 
@@ -17,7 +17,7 @@ This fursuit dryer is made of easy-to-find pipes commonly used for liquid flow. 
 
 The wood boards and metal hooks come from do-it-yourself stores.
 
-The flexible pipe from  ventilation to the dryer comes from do-it-yourself stores and is made for hose ventilation.
+The flexible pipes from ventilation to the dryer comes from do-it-yourself stores and is made for hose ventilation.
 
 The ventilation has been purchased on Amazon and is made for house ventilation (called "VMC" in french).
 
@@ -76,4 +76,4 @@ Thanks to furry conventions for the idea in general
 
 Thanks to Yashn for 3D modelling + printing
 
-Thanks to my dad for letting me crafting the device in his garage + his help
+Thanks to my dad for letting me craft the device in his garage + his help
