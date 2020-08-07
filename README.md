@@ -9,7 +9,7 @@ Another special thanks to [Yashn37](https://twitter.com/Yashn37) who made all th
 This fursuit dryer is made of easy-to-find pipes commonly used for liquid flow. You can find them in do-it-yourself stores for a cheap price.
 - The big straight pipes have a diameter of 100mm;
 - The medium straight pipes have a diameter of 50mm;
-- the medium inclined pipes have a diameter of 50mm;
+- The medium inclined pipes have a diameter of 50mm;
 - The small straight rigid pipes have a diameter of 30mm;
 - The small inclined rigid pipes have a diameter of 30mm;
 - The small flexible pipes have a diameter of 30mm and have been retrieved from a swiming pool.
@@ -31,32 +31,44 @@ The dryer can be mounted and unmounted very quickly in few steps.
 
 ## Photos
 ### Parts
+
 **Foot boards:**
-![foot boards](https://URL)
+
+![foot boards](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/foot_boards.jpg)
 
 **Bottom pipe:**
-![bottom pipe](https://URL)
+
+![bottom pipe](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/bottom_pipe.jpg)
 
 **Side pipes:**
-![side pipes](https://URL)
 
-**Tpop pipe:**
-![top pipe](https://URL)
+![side pipes](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/side_pipes.jpg)
+
+**Top pipe:**
+
+![top pipe](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/top_pipe.jpg)
 
 **Small and medium pipes:**
-![small and medium pipes](https://URL)
+
+![small and medium pipes](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/small_medium_pipes.jpg)
 
 **Ventilation:**
-![ventilation](https://URL)
+
+![ventilation](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/ventilation.jpg)
 
 ### Results
+
 **Naked:**
-![result 1](https://URL)
+
+![result 1](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/result1.jpg)
 
 **With my fursuit:**
-![result 2](https://URL)
+
+![result 2](https://github.com/SilouFr/fursuit_dryer/blob/master/photos/result2.jpg)
 
 ## Credits
 Thanks to furry conventions for the idea in general
+
 Thanks to Yashn for 3D modelling + printing
+
 Thanks to my dad for letting me crafting the device in his garage + his help
